@@ -1,0 +1,1 @@
+The CPP_TEST file contains two vulnerabilities from CVE-2022-45869. One is at line 265 and another at line 390.
